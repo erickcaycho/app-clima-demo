@@ -1,3 +1,16 @@
+# To use the Weather API you need to follow these steps
+
+To use the Weather API you need an API KEY. Enter this link to register and generate your API Key:
+Open [https://openweathermap.org/api](https://openweathermap.org/api) to access and for the registration open [https://home.openweathermap.org/users/sign_in](https://home.openweathermap.org/users/sign_in). You must create an account and just enjoy :) 
+
+# Afert you verify the email, please follow the next steps:
+1) Go to profiel account and open 'My API Keys' [https://home.openweathermap.org/api_keys] (https://home.openweathermap.org/api_keys)
+2) Copy the KEY and paste into configuration React JS into the next path: react-js-weather-app/src/App.js 
+3) Replace the follow sentence (line 8) with you KEY 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
